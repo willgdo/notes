@@ -1,0 +1,7 @@
+Vite -> Criar estrutura React
+Tailwindcss -> CSS
+Radix -> Funcionamento React
+date-fns -> Datas
+lucide-react -> Ícones
+sonner -> notificações
+SpeechRecognition = API para gravar audio | navegadores 
