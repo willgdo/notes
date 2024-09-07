@@ -1,1 +1,5 @@
-Projeto criado no NLW da RocketSeat.
+# Projeto criado no NLW da RocketSeat.
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+Aplicativo para inserir notas, escritas ou por áudio.
